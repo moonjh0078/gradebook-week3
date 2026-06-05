@@ -12,6 +12,7 @@
 - 점수 → 학점 변환 (A+~F)
 - 점수 파일 저장 / 불러오기
  origin/feature/file-io-
+- 성적 리포트 저장 (report.md)
 
 ## 실행 예시
 과목명: 국어 → 88점
@@ -36,3 +37,4 @@ python grades.py
 ## 개발 환경
 - Python 3.x
 - Git / GitHub
+
